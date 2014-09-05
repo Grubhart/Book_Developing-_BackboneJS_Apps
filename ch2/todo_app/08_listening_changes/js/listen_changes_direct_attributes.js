@@ -24,3 +24,8 @@ myTodo.setTitle('go fishing on sunday');
 myTodo.set('completed',true);
 console.log('my todo set is completed: completed ' , myTodo.get('completed'));
 
+// Above logs:
+// This model has been initialized.
+// Title value for this model has changed.
+// Title value for this model has changed.
+// set as completed: true
